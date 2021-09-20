@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "sharique",
+        "MONGO_PASSWORD": "root",
+        "MONGO_DB": "booksCatalog"
+    }
+}
