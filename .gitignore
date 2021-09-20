@@ -105,3 +105,6 @@ dist
 
 # nodemon.json to hide DB details
 nodemon.json
+
+# consider types.d.ts file
+!types.d.ts
