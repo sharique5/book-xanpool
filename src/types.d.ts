@@ -1,1 +1,1 @@
-declare module "bson";
+// declare module "*";
