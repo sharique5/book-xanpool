@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
-    "start": "concurrently \"tsc -w\" \"nodemon dist/js/app.js\""
+    "start": "concurrently \"tsc -w\" \"nodemon dist/js/app.js\"",
+    "deploy": "git add . && git commit -m Heroku && git push heroku master"
   },
   "author": "",
   "license": "ISC",
@@ -24,5 +25,8 @@
     "@types/node": "^16.9.2",
     "concurrently": "^6.2.1",
     "nodemon": "^2.0.12"
+  },
+  "engines": { 
+    "node": "12.21.0" 
   }
 }
