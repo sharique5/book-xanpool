@@ -14,3 +14,5 @@ Book's fields:
 Stack:
 1. Frontend - React, Typescript
 2. Backend - NodeJS(Typescript)
+
+![Demo](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
