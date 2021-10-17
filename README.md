@@ -15,4 +15,5 @@ Stack:
 1. Frontend - React, Typescript
 2. Backend - NodeJS(Typescript)
 
-![Demo](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+Demo
+![Demo](https://s9.gifyu.com/images/xanpool.gif)
